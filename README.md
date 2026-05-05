@@ -48,7 +48,7 @@ Atualmente cursando o xxº período de seu curso na Universidade da Cidade de S�
 | Projeto | Descrição | Link |
 | *SM1 - Engenharia Reversa* | Análise e documentação reversa de sistemas e fluxos de software. |[Ver Projeto](https://ai.studio/apps/9fe5869e-5cd1-4003-9a26-2929d64fc02d)
 | *SM2 - Engenharia de Software e IA com Bubble.io* | Construção de aplicações com ferramentas no-code integradas à Inteligência Artificial. | [Ver Projeto]( https://edisonaugustoal.bubbleapps.io/version-test/?debug_mode=true) |
-| *SM3 - TavernCall 2.0* | Aplicativo Android completo para sessões de RPG de mesa online, integrando videochamada Jitsi Meet, Mapa de Batalha com tokens arrastáveis, Ficha de Personagem D&D 5e, Soundboard de ambientação e Tracker de Iniciativa em uma interface unificada. | [Ver Projeto](./) |
+| *SM3 - TavernCall 2.0* | Aplicativo Android completo para sessões de RPG de mesa online, integrando videochamada Jitsi Meet, Mapa de Batalha com tokens arrastáveis, Ficha de Personagem D&D 5e, Soundboard de ambientação e Tracker de Iniciativa em uma interface unificada. | [Ver Projeto](./engenharia%20de%20prompt/TavernCall/) |
 
 
 
